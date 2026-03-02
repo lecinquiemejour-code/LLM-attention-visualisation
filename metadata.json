@@ -1,0 +1,5 @@
+{
+  "name": "LLM Attention Visualization",
+  "description": "A visualization of a simplified attention mechanism in a neural network.",
+  "requestFramePermissions": []
+}
